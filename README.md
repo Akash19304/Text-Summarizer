@@ -11,5 +11,3 @@
 7. update the main.py 
 8. update app.py
 
-
-URI: 312497621972.dkr.ecr.eu-north-1.amazonaws.com/text-s
